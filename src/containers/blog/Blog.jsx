@@ -5,7 +5,7 @@ import './blog.css';
 
 export const Blog = () => {
     return (
-        <div className='fulsivern__blog section__padding' id='blog'>
+        <div className='fulsivern__blog section__padding' id='articles'>
             <div className='fulsivern__blog-heading'>
                 <h1 className='gradient__text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
             </div>

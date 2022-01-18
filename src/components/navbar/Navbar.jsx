@@ -8,8 +8,9 @@ const Menu = () => (
     <p><a href='#home'>Home</a></p>
         <p><a href='#whatFulsivern'>What is Fulsivern?</a></p>
         <p><a href='#features'>Services</a></p>
-        <p><a href='#about'>About</a></p>
+        <p><a href='#possibility'>Possibilities</a></p>
         <p><a href='#contact'>Contact</a></p>
+        <p><a href='#articles'>Articles</a></p>
     </>
 )
 
