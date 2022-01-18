@@ -3,8 +3,14 @@ import './cta.css';
 
 export const CTA = () => {
     return (
-        <div>
-            CTA
+        <div className='fulsivern__cta'>
+            <div className='fulsivern__cta-content'>
+                <p>Lorem ipsum dolor sit amet...</p>
+                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+            </div>
+            <div className='fulsivern__cta-btn'>
+                <button type='button'>Get started</button>
+            </div>
         </div>
     )
 }

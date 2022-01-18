@@ -6,10 +6,10 @@ import './navbar.css';
 const Menu = () => (
     <>
     <p><a href='#home'>Home</a></p>
-        <p><a href='#home'>What is Fulsivern?</a></p>
-        <p><a href='#home'>Services</a></p>
-        <p><a href='#home'>About</a></p>
-        <p><a href='#home'>Contact</a></p>
+        <p><a href='#whatFulsivern'>What is Fulsivern?</a></p>
+        <p><a href='#features'>Services</a></p>
+        <p><a href='#about'>About</a></p>
+        <p><a href='#contact'>Contact</a></p>
     </>
 )
 
